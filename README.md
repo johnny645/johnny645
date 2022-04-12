@@ -1,12 +1,11 @@
 ### Hi there 👋
-### My name Johnny Tran
+### My name is Johnny Tran
 <!--
 **johnny645/johnny645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Javascript
-- 🤔 I’m looking for help with 
 - 💬 Ask me about my photographs 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a photographer
