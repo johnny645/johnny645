@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with 
 - 💬 Ask me about my photographs 
-- 📫 How to reach me: 
-- 😄 Pronouns:
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a photographer
+-  📫 How to reach me: 
+[LinkedIn](https://www.linkedin.com/feed/)
