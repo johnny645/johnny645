@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 💬 Ask me about my photographs 
 - 📫 How to reach me: 
-- 😄 Pronouns: Attack Helicopter
+- 😄 Pronouns:
 - ⚡ Fun fact: I am a photographer
